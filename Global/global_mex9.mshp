@@ -21,7 +21,7 @@ japan7.patch
 ./central_america_50km_ext.mat
 7000.0
 0 1 1
-mex09.patch
+
 ./alaska_50km_crop.mat
 100000.0
 0 1 0
